@@ -1,0 +1,4 @@
+// I use this one on Preferences/Key Bindings - User
+[
+  { "keys": ["ctrl+alt+f"], "command": "reindent", "args": {"single_line": false} }
+]
