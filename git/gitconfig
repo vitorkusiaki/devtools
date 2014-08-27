@@ -1,0 +1,16 @@
+// Yeah, I know this is lazy.
+// Don't forget to save as .gitconfig
+// And erase these comments
+[alias]
+  gui = log --graph --date=short
+  g = git
+  ch = checkout
+  co = commit
+  sh = stash
+  st = status
+  re = rebase
+  ps = push
+  pl = pull
+[user]
+  name = Your Name
+  email = your@email.here
