@@ -1,4 +1,6 @@
 // I use this one on Preferences/Key Bindings - User
 [
-  { "keys": ["ctrl+alt+f"], "command": "reindent", "args": {"single_line": false} }
+  { "keys": ["ctrl+alt+f"], "command": "reindent", "args": {"single_line": false} },
+  { "keys": ["ctrl+k"], "command": "toggle_side_bar" }
 ]
+
